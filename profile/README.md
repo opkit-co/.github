@@ -1,4 +1,4 @@
-<img src="assets/logo.svg" alt="Opkit" width="200"/>
+<!-- <img src="assets/logo.svg" alt="Opkit" width="200"/> -->
 
 # Welcome!
 
